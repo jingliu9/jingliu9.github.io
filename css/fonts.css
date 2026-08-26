@@ -1,7 +1,15 @@
 body {
   font-family: Optima, Candara, Calibri, Arial, sans-serif;
 }
-code {
-  font-family: "Lucida Console", Monaco, monospace;
-  font-size: 85%;
+
+h1,
+h2,
+h3,
+.hero-role {
+  font-family: "Iowan Old Style", Baskerville, "Songti SC", STSong, Georgia, serif;
+}
+
+code,
+pre {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
 }
